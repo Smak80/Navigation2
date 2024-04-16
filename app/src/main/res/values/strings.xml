@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Navigation2</string>
+    <string name="settings_text">Это страница настроек приложения</string>
+    <string name="btn_back">Назад</string>
+    <string name="detail_text">Страница с деталями чего-то...</string>
+    <string name="main_text">Это основная страница приложения</string>
+    <string name="btn_detail">Детали</string>
+    <string name="btn_settings">Настройки</string>
+    <string name="title_details">Детали</string>
+    <string name="title_settings">Настройки</string>
+    <string name="title_main">Главная</string>
+</resources>
